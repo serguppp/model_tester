@@ -11,7 +11,7 @@ This repository contains the `main.py` script, which is used for testing machine
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/model_tester.git
+    git clone https://github.com/serguppp/model_tester.git
     ```
 2. Navigate to the project directory:
 3. Install the required packages:
